@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/2d_sim.dir/main.c.o CMakeFiles/2d_sim.dir/__/__/coreJSON/source/core_json.c.o -o 2d_sim  ../../libs/context/libcontext.a ../../libs/vectors/libvectors.a ../../libs/particles/libparticles.a ../../libs/walls/libwalls.a ../../libs/render/librender.a ../../libs/timer/libtimer.a -lm -lSDL2 -lGL -lGLU -lpng -lgomp ../../libcorejson.a 
