@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcorejson.a CMakeFiles/corejson.dir/coreJSON/source/core_json.c.o
+/usr/bin/ranlib libcorejson.a

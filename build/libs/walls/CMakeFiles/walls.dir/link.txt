@@ -1,0 +1,2 @@
+/usr/bin/ar qc libwalls.a CMakeFiles/walls.dir/walls.c.o
+/usr/bin/ranlib libwalls.a

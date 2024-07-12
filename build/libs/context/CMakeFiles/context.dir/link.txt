@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcontext.a CMakeFiles/context.dir/context.c.o CMakeFiles/context.dir/read_file_to_string.c.o
+/usr/bin/ranlib libcontext.a
