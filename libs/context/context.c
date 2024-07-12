@@ -94,12 +94,3 @@ bool Context_initialise_experiment(const char* experiment_name) {
 const struct Context* Context_get(void) {
     return &context;
 }
-
-
-
-
-
-
-
-
-
